@@ -1,6 +1,19 @@
+site_name: BFWRI Lernsituationen
+
 theme:
   name: material
+  language: de
+  font: false
+
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
 
 plugins:
-  - include-markdown:  
-
+  - include-markdown
+  
+  
+nav:
+    - Einleitung zum LF2: 'index.md'
+    
