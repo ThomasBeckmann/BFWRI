@@ -5,9 +5,3 @@
 In der Abteilung “Vernetzung” bei der SolSys GmbH werden Sie von dem Mitarbeiter Peter Hoffmann begrüßt. *In unserer Abteilung sind wir für die Abwicklung von Aufträgen von Privat- und Geschäftskunden verantwortlich. Die Kunden wollen meistens ein bestehendes Netzwerk nach dem Client-Server-Prinzip erweitern oder weitere Clients integrieren lassen. Kennst Du Dich bereits mit Netzwerken aus? Du hast doch bestimmt zu Hause Dein Netzwerk mit der Fritzbox selber eingerichtet, oder?
 
 <!--include-end--> 
-
-{%
-   include-markdown "Aufgaben/*.md"
-   start="<!--include-start-->"
-   end="<!--intro-end-->"
-%}
