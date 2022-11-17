@@ -3,4 +3,7 @@ Startseite
 
 Ab hier soll eingebudnen werden:
 
-{% include-markdown ../Vernetzung/Lernsituation01/Situation.md %}
+
+~~~yaml
+{% include "../Vernetzung/Lernsituation01/Situation.md" %}
+~~~
